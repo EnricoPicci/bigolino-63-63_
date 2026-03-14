@@ -1,0 +1,1 @@
+The 4 heroes are among the last boomers. Propose some funny changes to the current text that reference this fact.

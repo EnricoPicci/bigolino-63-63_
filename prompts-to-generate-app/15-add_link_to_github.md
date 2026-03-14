@@ -1,0 +1,1 @@
+Add a small link, in the footer, to the folder "prompts-to-generate-app" for those curious about how the prompts to generate this app look like. Keep a funny tone. Be subtle.
