@@ -28,7 +28,7 @@ git push origin main
 - GitHub impieghera 1-2 minuti per pubblicare il sito
 - Nella stessa pagina Settings > Pages apparira l'URL del sito, che sara:
   - `https://<username>.github.io/<nome-repository>/`
-  - Ad esempio: `https://enricopicci.github.io/festa-63-63/`
+  - Ad esempio: `https://enricopicci.github.io/bigolino-63-63_/`
 - Si puo verificare lo stato del deploy nella tab **Actions** del repository
 
 ## Passo 4: Verificare / Step 4: Verify

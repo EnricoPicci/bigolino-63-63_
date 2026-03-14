@@ -223,7 +223,7 @@ Verra creato un file `COME-MODIFICARE-IL-SITO.md` (e la versione inglese `HOW-TO
 ## Struttura dei file / File Structure
 
 ```
-festa-63-63/
+bigolino-63-63_/
 ├── index.html                          # Pagina unica del sito
 ├── css/
 │   └── style.css                       # Tutti gli stili

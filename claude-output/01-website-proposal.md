@@ -107,7 +107,7 @@ Palette ispirata al territorio e al vino:
 ## Struttura dei file / File Structure
 
 ```
-festa-63-63/
+bigolino-63-63_/
 ├── index.html              # Pagina principale
 ├── css/
 │   └── style.css           # Stili (o Tailwind)

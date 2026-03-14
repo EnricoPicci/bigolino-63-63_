@@ -162,7 +162,7 @@ Nessun altro passaggio. Il precommit hook si occupa di tutto.
 ## Struttura dei file completa
 
 ```
-festa-63-63/
+bigolino-63-63_/
 │
 ├── index.html                     # GENERATO dal build script (non modificare a mano)
 │
